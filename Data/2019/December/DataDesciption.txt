@@ -1,2 +1,4 @@
 Cape Town AirBnB Dataset obtained from InsideAirBnB.com.
 24458 samples and 106 features.
+The total listings_complete.csv file is too large to be uploaded.
+A smaller listings.csv has been included to demonstrate the nature of the AirBnB data.
