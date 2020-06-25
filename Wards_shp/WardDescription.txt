@@ -1,0 +1,1 @@
+The Wards.shp file contains the shape file needed to construct the maps of Cape Town and demarcate the ward boundaries.
