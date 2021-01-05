@@ -1,10 +1,10 @@
 # CapeTown-AirBnB-PricePrediction
 Investigation into spatial and textual features influencing AirBnB price in Cape Town.
 
- <img src="price_distribution_no_title.png" alt="Spatial Distribution of AirBnB Prices" width="500"/>
-
-*Map showing AirBnB Price Distribution on a Log Scale*
-
+<p align="center">
+  <img src="price_distribution_no_title.png" alt="Spatial Distribution of AirBnB Prices" width="500"/>
+</p>
+ 
 
 
 ## Data
