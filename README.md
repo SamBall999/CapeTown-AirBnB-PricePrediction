@@ -1,6 +1,8 @@
 # CapeTown-AirBnB-PricePrediction
 Investigation into spatial and textual features influencing AirBnB price in Cape Town.
 
+![Spatial Distribution of AirBnB Prices](price_distribution_no_title.png?raw=true "Spatial Distribution of AirBnB Prices")
+
 ## Data
 The Cape Town AirBnB dataset was obtained from _Inside AirBnB_, a compiled set of publicly available and verified AirBnB data spanning multiple cities. The focus of the investigation was narrowed to the month of December 2019
 in order to analyse the contribution of individual features without the influence of temporal and seasonal changes. The December 2019 dataset comprises 24458 samples and 106 features including textual, continuous, categorical and spatial attributes regarding both the venue and the host.
@@ -24,5 +26,5 @@ To what extent do spatial features play a significiant role in influencing the p
 
 
 ## Report
-<a href="AirBnB\ Price\ Prediction\ Report.pdf" class="image fit">
+<a href="AirBnB Price Prediction Report.pdf">
 Investigating the Impact of Spatial Features on AirBnB Price Prediction in Cape Town
