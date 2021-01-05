@@ -1,7 +1,11 @@
 # CapeTown-AirBnB-PricePrediction
 Investigation into spatial and textual features influencing AirBnB price in Cape Town.
 
-![Spatial Distribution of AirBnB Prices](price_distribution_no_title.png?raw=true "Spatial Distribution of AirBnB Prices")
+ <img src="price_distribution_no_title.png" alt="Spatial Distribution of AirBnB Prices" width="500"/>
+
+*Map showing AirBnB Price Distribution on a Log Scale*
+
+
 
 ## Data
 The Cape Town AirBnB dataset was obtained from _Inside AirBnB_, a compiled set of publicly available and verified AirBnB data spanning multiple cities. The focus of the investigation was narrowed to the month of December 2019
