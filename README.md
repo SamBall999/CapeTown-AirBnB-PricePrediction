@@ -40,7 +40,7 @@ Through analysis of the continuous, categorical and textual features present in 
 </p>
 
 However a more notable result is the ability of the categorical and textual features to provide significant value as meaning has to be extracted from the data through chosen techniques. This substantial performance highlights the value of textual processing techniques such as _term frequency inverse document
-frequency (tf-idf )_ and _Truncated Single Value Decomposition_ when extracting useful features from raw text.
+frequency (tf-idf )_ and _Truncated Singular Value Decomposition_ when extracting useful features from raw text.
 
 ### 2. Optimal model
 The results exhibited a clear indication in favour of Ensemble methods such as _XGBoost_, _GradBoost_ and _Random Forest_. Moreover, the superior performance of Boost methods over the neural network in particular suggests that Boost algorithms are better able to perform on smaller or limited datasets. Therefore a key conclusion is that Boost methods are more suitable for complex price prediction with modest datasets.
